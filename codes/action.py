@@ -1,5 +1,6 @@
 # Author: Alex Gezerlis
 # Numerical Methods in Physics with Python (CUP, 2020)
+# >:-? ]
 
 from multi_newton import multi_newton
 import numpy as np
